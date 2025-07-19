@@ -1,6 +1,7 @@
 .google.com
 .googlebot.com
-.yamoney.ru.spider.yandex.com
+.yamoney.ru
+.spider.yandex.com
 .yandex.ru
 .yandex.net
 .yandex.com
