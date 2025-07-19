@@ -1,0 +1,16 @@
+.google.com
+.googlebot.com
+.yamoney.ru.spider.yandex.com
+.yandex.ru
+.yandex.net
+.yandex.com
+.search.msn.com
+.baidu.com
+.baidu.jp
+.crawl.yahoo.net
+.fwd.linkedin.com
+.twitter.com
+.twttr.com
+.discord.com
+.uptimerobot.com
+.saransk.ru
