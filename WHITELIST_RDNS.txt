@@ -16,3 +16,4 @@
 .uptimerobot.com
 .saransk.ru
 .nat-pool.bliz.co
+.pppoe.omsk.ertelecom.ru
